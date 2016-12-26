@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Facemouth' target in the 'Facemouth' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
